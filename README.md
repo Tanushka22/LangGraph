@@ -15,3 +15,5 @@ Constructed conversation flows using Directed Acyclic Graphs (DAGs) to enable st
 Optimized agent performance with state management techniques, improving scalability and response efficiency.
 
 Deployed the application using Streamlit, enabling real-time interaction and evaluation of AI-driven dialogues.
+
+https://blog.futuresmart.ai/langgraph-tutorial-for-beginners#heading-graph-structures
